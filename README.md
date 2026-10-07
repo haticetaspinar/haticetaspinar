@@ -1,5 +1,9 @@
 ## Hi there 👋
-# 👋 Merhaba, Ben [Adınız]!
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Merhaba%2C+Ben+Hatice!;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%C3%96%C4%9Frencisi;C%23%2C+Python%2C+SQL+%26+Web+Tech" alt="Typing SVG" />
+  </a>
+</p>
 
 **Bilgisayar Programcılığı Öğrencisi & Yazılım Geliştirici**
 
