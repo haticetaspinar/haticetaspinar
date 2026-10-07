@@ -13,9 +13,9 @@ Proje geliştirmekten, yeni teknolojiler öğrenmekten ve kod yazmaktan keyif al
 
 ### 🚀 Hakkımda
 - 🔭 Şu anda **[Mevcut Projeniz / İlgilendiğiniz Konu]** üzerinde çalışıyorum.
-- 🌱 Aktif olarak **[Öğrendiğiniz Dil veya Teknoloji]** geliştiriyorum.
+- 🌱 Aktif olarak **C#** geliştiriyorum.
 - 💬 **C#, Python, SQL ve Web Geliştirme** konularında sohbet edebiliriz.
-- 📫 Bana ulaşmak için: **[E-posta Adresiniz]**
+- 📫 Bana ulaşmak için: **taspinarhatice521@gmail.com**
 
 ### 🛠️ Teknolojiler ve Araçlar
 
@@ -33,10 +33,9 @@ Proje geliştirmekten, yeni teknolojiler öğrenmekten ve kod yazmaktan keyif al
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+#### Tasarım & Medya Araçları
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/adobe%20animate-%23FF0000.svg?style=for-the-badge&logo=adobeanimate&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/adobe%20premiere%20pro-%239999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
-### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radial" alt="İstatistikler" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radial" alt="En Çok Kullanılan Diller" height="150"/>
-</p>
