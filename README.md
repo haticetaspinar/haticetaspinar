@@ -12,8 +12,7 @@ Proje geliştirmekten, yeni teknolojiler öğrenmekten ve kod yazmaktan keyif al
 ---
 
 ### 🚀 Hakkımda
-- 🔭 Şu anda **[Mevcut Projeniz / İlgilendiğiniz Konu]** üzerinde çalışıyorum.
-- 🌱 Aktif olarak **C#** geliştiriyorum.
+- 🌱 Aktif olarak **C# ve JavaScript** öğreniyorum .
 - 💬 **C#, Python, SQL ve Web Geliştirme** konularında sohbet edebiliriz.
 - 📫 Bana ulaşmak için: **taspinarhatice521@gmail.com**
 
